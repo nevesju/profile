@@ -239,7 +239,7 @@ deixando assim o menu burger oculto, forçando assim o menu aparecendo inline-bl
 
 @media screen and (min-width: 993px) and (max-width: 1200px) {
     body {
-        background-image:url("../back-pc.jpg   ");
+        background-image:url("../back-pc.jpg");
     }
 
     #burger {
